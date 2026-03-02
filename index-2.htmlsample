@@ -1117,7 +1117,7 @@
                     data-group="bannerContent"
                 >
                     <h1 class="text-[32px] md:text-6xl lg:text-[65px] xl:text-[85px] 2xl:text-[110px] leading-[1.2] md:leading-none lg:max-w-[720px] xl:max-w-[960px] 2xl:max-w-full mx-auto mb-[20px] md:mb-[25px] lg:mb-[30px]">
-                        Your Journey Starts Here With RentQ
+                        Your Journey Starts Here With ASIA MAX
                     </h1>
                     <form action="index-2.html#">
                         <div class="ltr:text-left rtl:text-right bg-[#FFD6BB] dark:bg-dark p-[15px] rounded-[10px] grid grid-cols-1 md:grid-cols-2 xl:grid-cols-4 gap-[10px]">
@@ -1969,12 +1969,12 @@
                                 Who We Are
                             </span>
                             <h2 class="mb-[15px] md:mb-[20px] text-xl md:text-2xl lg:text-3xl leading-[1.3] xl:max-w-[875px]">
-                                RentQ is a premium self-drive car rental service dedicated to providing customers with freedom, flexibility, and reliability on every journey.
+                                ASIA MAX is a premium self-drive car rental service dedicated to providing customers with freedom, flexibility, and reliability on every journey.
                             </h2>
                             <div class="grid grid-cols-1 lg:grid-cols-2 gap-[25px]">
                                 <div>
                                     <p>
-                                        Whether you’re heading on a weekend getaway, a business trip, or simply need a car for daily commuting — RentQ offers a seamless rental experience with transparent pricing, a modern fleet, and exceptional customer support.
+                                        Whether you’re heading on a weekend getaway, a business trip, or simply need a car for daily commuting — ASIA MAX offers a seamless rental experience with transparent pricing, a modern fleet, and exceptional customer support.
                                     </p>
                                     <a
                                         href="about.html"
@@ -2362,7 +2362,7 @@
             </div>
             <!-- End Special Deals & Promotions -->
             
-            <!-- Why Choose RentQ -->
+            <!-- Why Choose ASIA MAX -->
             <div class="py-[60px] md:py-[80px] lg:py-[100px] xl:py-[120px]">
                 <div class="container">
                     <div class="grid grid-cols-1 lg:grid-cols-2 gap-[25px]">
@@ -2371,7 +2371,7 @@
                             data-group="whyChooseContent"
                         >
                             <span class="block font-bold text-primary mb-[8px] md:mb-[10px]">
-                                Why Choose RentQ
+                                Why Choose ASIA MAX
                             </span>
                             <h2 class="mb-[20px] md:mb-[30px] lg:mb-[40px] text-xl md:text-2xl lg:text-3xl leading-[1.3]">
                                 Discover what sets us apart from other car rental services and why thousands of customers trust us for their journeys.
@@ -2566,7 +2566,7 @@
                     </div>
                 </div>
             </div>
-            <!-- End Why Choose RentQ -->
+            <!-- End Why Choose ASIA MAX -->
             
             <!-- Reviews -->
             <div
@@ -2583,7 +2583,7 @@
                             What Our Customers Say
                         </span>
                         <h2 class="!text-white mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                            Don't just take our word for it. Hear from thousands of satisfied customers who have experienced the RentQ difference.
+                            Don't just take our word for it. Hear from thousands of satisfied customers who have experienced the ASIA MAX difference.
                         </h2>
                     </div>
                     <div class="flex flex-wrap justify-center md:justify-between items-center gap-[25px] lg:mx-auto lg:max-w-[830px]">
@@ -2700,7 +2700,7 @@
                                         <i class="ri-star-half-fill"></i>
                                     </div>
                                     <p class="font-medium text-base md:text-lg lg:text-xl">
-                                        “The car was spotless and in perfect condition. I drove over 400 km without a single issue. RentQ really maintains their vehicles well.”
+                                        “The car was spotless and in perfect condition. I drove over 400 km without a single issue. ASIA MAX really maintains their vehicles well.”
                                     </p>
                                     <span class="block md:mt-[25px]">
                                         Scott Castillo
@@ -2720,7 +2720,7 @@
                                         <i class="ri-star-line"></i>
                                     </div>
                                     <p class="font-medium text-base md:text-lg lg:text-xl">
-                                        “I’ve tried a few local rental companies, but RentQ gives the best value — clean cars, fair prices, and quick service. Definitely using them again!”
+                                        “I’ve tried a few local rental companies, but ASIA MAX gives the best value — clean cars, fair prices, and quick service. Definitely using them again!”
                                     </p>
                                     <span class="block md:mt-[25px]">
                                         Marshall Bainter
@@ -2840,7 +2840,7 @@
                             Your car rental in your pocket
                         </h2>
                         <p>
-                            Book, manage, and unlock your rental car directly from your phone. The RentQ app makes car rental faster, easier, and more convenient than ever before.
+                            Book, manage, and unlock your rental car directly from your phone. The ASIA MAX app makes car rental faster, easier, and more convenient than ever before.
                         </p>
                         <div class="flex flex-wrap justify-between my-[25px] md:my-[30px] lg:my-[35px] max-w-[450px] xl:max-w-full">
                             <div class="text-center">
@@ -2976,7 +2976,7 @@
                             Popular Rental Locations
                         </span>
                         <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                            With 50+ locations nationwide, find the most convenient RentQ branch for your next adventure. All locations offer our signature premium service.
+                            With 50+ locations nationwide, find the most convenient ASIA MAX branch for your next adventure. All locations offer our signature premium service.
                         </h2>
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]">
@@ -3428,7 +3428,7 @@
                 >
                     <img src="assets/images/car.gif" class="mb-[15px] md:mb-[20px] lg:mb-[25px] -rotate-[5deg]" alt="car">
                     <h2 class="mb-[12px] text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                        Stay Updated with RentQ Rental
+                        Stay Updated with ASIA MAX Rental
                     </h2>
                     <p>
                         Subscribe to our newsletter for exclusive deals, travel tips, and the latest updates.
@@ -3608,7 +3608,7 @@
                 <div class="pt-[60px] md:pt-[80px] lg:pt-[100px] xl:pt-[120px]"></div>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-[15px] md:gap-[25px] border-t border-[#D9D9D9]/50 dark:border-white/10 py-[20px] md:py-[25px] lg:py-[30px]">
                     <p class="!mb-0">
-                        © RentQ. All Rights Reserved. Powered by <a href="https://arxionlabs.com/" class="text-primary font-medium hover:underline" target="_blank">ArxionLabs</a>
+                        © ASIA MAX. All Rights Reserved. Powered by <a href="https://arxionlabs.com/" class="text-primary font-medium hover:underline" target="_blank">ArxionLabs</a>
                     </p>
                     <ul class="flex items-center gap-[15px] lg:gap-[20px] md:justify-end">
                         <li>

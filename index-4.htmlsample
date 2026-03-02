@@ -1045,7 +1045,7 @@
                         data-group="bannerContent"
                     >
                         <h1 class="mb-[15px] md:mb-[20px] !text-white text-[32px] md:text-6xl lg:text-[65px] xl:text-[110px] leading-[1.2] md:leading-none !font-semibold">
-                            Arrive in Style and Comfort with <span class="text-primary">RentQ</span>
+                            Arrive in Style and Comfort with <span class="text-primary">ASIA MAX</span>
                         </h1>
                         <p class="font-medium text-base md:text-lg lg:text-xl">
                             Premium chauffeured car rentals for business, leisure, and special occasions.
@@ -1154,10 +1154,10 @@
                 >
                     <div class="mb-[30px] md:mb-[35px] lg:mb-[40px]">
                         <span class="block font-bold text-primary mb-[10px]">
-                            About RentQ
+                            About ASIA MAX
                         </span>
                         <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                            At RentQ, we believe that every journey should be an experience in itself. Founded in 2010, we've transformed the car rental industry by combining premium vehicles with professional chauffeurs for the ultimate travel experience.
+                            At ASIA MAX, we believe that every journey should be an experience in itself. Founded in 2010, we've transformed the car rental industry by combining premium vehicles with professional chauffeurs for the ultimate travel experience.
                         </h2>
                     </div>
                     <div class="grid grid-cols-1 lg:grid-cols-2 gap-[25px] items-center">
@@ -1844,7 +1844,7 @@
                                         <span class="block h-[30px] w-px bg-primary"></span>
                                     </div>
                                     <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                                        Why Choose RentQ?
+                                        Why Choose ASIA MAX?
                                     </h2>
                                 </div>
                                 <p class="font-medium text-base md:text-lg xl:text-xl xl:max-w-[540px]">
@@ -2328,7 +2328,7 @@
                             </div>
                         </div>
                         <p class="font-medium text-base md:text-lg xl:text-xl mx-auto lg:max-w-[780px] xl:max-w-[865px]">
-                            With 50+ locations nationwide, find the most convenient RentQ branch for your next adventure. All locations offer our signature premium service.
+                            With 50+ locations nationwide, find the most convenient ASIA MAX branch for your next adventure. All locations offer our signature premium service.
                         </p>
                     </div>
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-[25px]">
@@ -2612,7 +2612,7 @@
                                 </h2>
                             </div>
                             <p class="font-medium text-base md:text-lg xl:text-xl xl:max-w-[536px]">
-                                Don't just take our word for it. Read what thousands of satisfied customers have to say about their RentQ experience.
+                                Don't just take our word for it. Read what thousands of satisfied customers have to say about their ASIA MAX experience.
                             </p>
                             <div class="md:flex lg:block xl:flex items-center gap-[15px] md:mt-[20px]">
                                 <div class="flex items-center">
@@ -2681,7 +2681,7 @@
                                         <i class="ri-star-half-fill"></i>
                                     </div>
                                     <p class="text-black dark:text-white font-medium text-base md:text-lg lg:text-xl">
-                                        “The car was spotless and in perfect condition. I drove over 400 km without a single issue. RentQ really maintains their vehicles well.”
+                                        “The car was spotless and in perfect condition. I drove over 400 km without a single issue. ASIA MAX really maintains their vehicles well.”
                                     </p>
                                     <span class="block md:mt-[25px]">
                                         Scott Castillo
@@ -2769,7 +2769,7 @@
                             </div>
                         </div>
                         <p class="font-medium text-base md:text-lg xl:text-xl mx-auto lg:max-w-[800px] xl:max-w-[875px] text-[#d9d9d9]">
-                            Find quick answers to common questions about renting with RentQ. Can't find what you're looking for? Contact our support team.
+                            Find quick answers to common questions about renting with ASIA MAX. Can't find what you're looking for? Contact our support team.
                         </p>
                     </div>
                     <div class="accordion grid grid-cols-1 lg:grid-cols-2 gap-[25px]">
@@ -2929,11 +2929,11 @@
                                     <span class="block h-[30px] w-px bg-primary"></span>
                                 </div>
                                 <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                                    RentQ Blog & Travel Tips
+                                    ASIA MAX Blog & Travel Tips
                                 </h2>
                             </div>
                             <p class="font-medium text-base md:text-lg xl:text-xl">
-                                Discover expert travel advice, car rental tips, destination guides, and the latest news from RentQ.
+                                Discover expert travel advice, car rental tips, destination guides, and the latest news from ASIA MAX.
                             </p>
                         </div>
                         <div class="lg:col-span-2 ltr:xl:pl-[70px] rtl:xl:pr-[70px]">
@@ -3163,7 +3163,7 @@
                                 <span class="block h-[30px] w-px bg-primary"></span>
                             </div>
                             <h2 class="mb-0 text-xl md:text-2xl lg:text-3xl leading-[1.2]">
-                                Stay Updated with RentQ Rental
+                                Stay Updated with ASIA MAX Rental
                             </h2>
                             <div class="flex items-center justify-center gap-[2px] flex-none">
                                 <span class="block h-[30px] w-px bg-primary"></span>
@@ -3378,7 +3378,7 @@
                 <div class="pt-[60px] md:pt-[80px] lg:pt-[100px] xl:pt-[120px]"></div>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-[15px] md:gap-[25px] border-t border-[#292F31] py-[20px] md:py-[25px] lg:py-[30px]">
                     <p class="text-white !mb-0">
-                        © RentQ. All Rights Reserved. Powered by <a href="https://arxionlabs.com/" class="text-primary font-semibold hover:underline" target="_blank">ArxionLabs</a>
+                        © ASIA MAX. All Rights Reserved. Powered by <a href="https://arxionlabs.com/" class="text-primary font-semibold hover:underline" target="_blank">ArxionLabs</a>
                     </p>
                     <ul class="flex items-center gap-[15px] lg:gap-[20px] md:justify-end">
                         <li>
